@@ -42,8 +42,3 @@ First set the environment variable by running the following command (once for a 
 - Author - [Irfan](https://github.com/Irfvnn64)
 - My GitHub - [https://github.com/Irfvnn64](https://github.com/Irfvnn64)
 
-## License
-
-This project is currently **UNLICENSED** for personal use.
-
----
