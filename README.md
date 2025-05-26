@@ -1,6 +1,10 @@
 # My Online Shop Backend
 
 <p align="center">
+  <a href="https://cooltext.com"><img src="https://images.cooltext.com/5731610.png" width="414" height="98" alt="Irfan Nabil" /></a>
+</p>
+
+<p align="center">
   A personal E-Commerce Website using Flask (Python) Backend for learning and development.
 </p>
 
