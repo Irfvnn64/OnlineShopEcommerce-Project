@@ -1,10 +1,6 @@
 # My Online Shop Backend
 
 <p align="center">
-  <a href="https://cooltext.com"><img src="https://images.cooltext.com/5731610.png" width="414" height="98" alt="Irfan Nabil" /></a>
-</p>
-
-<p align="center">
   A personal E-Commerce Website using Flask (Python) Backend for learning and development.
 </p>
 
@@ -46,4 +42,8 @@ First set the environment variable by running the following command (once for a 
 - Author - [Irfan](https://github.com/Irfvnn64)
 - My GitHub - [https://github.com/Irfvnn64](https://github.com/Irfvnn64)
 
+## License
 
+This project is currently **UNLICENSED** for personal use.
+
+---
